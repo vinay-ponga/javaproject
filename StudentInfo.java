@@ -6,6 +6,5 @@ public class StudentInfo {
         String course = "Civil";
         System.out.println("Student Name: " + name);
         System.out.println("Age: " + age);
-        System.out.println("Student cousre: " + course);
     }
 }
